@@ -1,0 +1,5 @@
+[config-data]
+vt_api_key = 
+dependencies_status = incomplete
+emulator_path = #optional
+

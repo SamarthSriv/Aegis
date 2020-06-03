@@ -1,0 +1,16 @@
+# Built application files
+*.apk
+*.pyc
+.cache/
+.DS_Store
+
+#Other generated files
+smali_copy/
+Source-Java/
+Analysis/
+Extracts/
+apk/
+.idea/
+smali_analysis/*
+Manifest.xml
+settings.json

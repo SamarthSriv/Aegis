@@ -1,0 +1,25 @@
+language: python
+
+before_install:
+  - sudo apt-get install python3
+
+sudo: required
+
+python:
+  - "3.5"
+
+cache: pip
+
+os: Linux
+
+script:
+  - pytest
+
+install:
+  - python3 installer.py
+  - pip3 install requests
+  - pip3 install prettytable
+  - pip3 install termcolor
+  - pip3 install colorama
+  - cd tests
+
