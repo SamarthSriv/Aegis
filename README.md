@@ -61,9 +61,6 @@
     * Rebuilding the APK
     * Signing the APK
 
----
-
-
 
 ---
 
@@ -77,7 +74,7 @@
 
 ### Quick Setup
 
-1. Dowload the zip or clone the package and extract the tool ( ```git clone https://github.com/abhi-r3v0/Adhrit.git``` ).
+1. Dowload the zip or clone the package and extract the tool ( ```git clone https://github.com/samarth_sriv/aegis.git``` ).
 2. Open ```config``` and input your VirusTotal API key without any quotes. ([Click here to know how to obtain your VT API key](https://community.mcafee.com/t5/Documents/How-to-get-a-VirusTotal-public-API-Key/ta-p/552797))
 3. Open a terminal and cd into the directory.
 4. Run the ```installer script``` to install the necessary tools/dependencies:
@@ -87,21 +84,21 @@
 ### Usage:
 
 1. Place the application (apk file) in the tool directory.
-2. Use ```python3 adhrit.py -h``` for usage help.
+2. Use ```python3 aegis.py -h``` for usage help.
 
 Example:  
 
 ```python
-python3 adhrit.py -a myapp.apk
+python3 aegis.py -a myapp.apk
 ```
 
 #### Pentest Mode
 
 ```python
-python3 adhrit.py -pen myapp.apk
+python3 aegis.py -pen myapp.apk
 ```
 
-Refer to the detailed [documentation](hhttps://github.com/abhi-r3v0/Adhrit/wiki) for complete details
+Refer to the detailed [documentation](hhttps://github.com/samarth_sriv-r3v0/aegis/wiki) for complete details
 
 ---
 
