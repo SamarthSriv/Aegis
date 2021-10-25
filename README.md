@@ -84,23 +84,6 @@
    ```python3 installer.py```
 
 ---
-
-### Presentations / Conferences:
-
-* #####  [OWASP Seasides](Docs/files/ADHRIT_OWASP.pdf)
-
-<p align="left">
-  <img width="500" height="310" src="https://github.com/abhi-r3v0/Adhrit/blob/master/Docs/images/slidess.png">
-</p>
-
-* ##### [Cysinfo Cyber Security Meetup](https://cysinfo.com/12th-meetup-analysis-android-apk-using-adhrit/)
-
-<p align="left">
-  <img width="500" height="310" src="https://github.com/abhi-r3v0/Adhrit/blob/master/Docs/images/slide.png">
-</p>
-
----
-
 ### Usage:
 
 1. Place the application (apk file) in the tool directory.
@@ -122,11 +105,6 @@ Refer to the detailed [documentation](hhttps://github.com/abhi-r3v0/Adhrit/wiki)
 
 ---
 
-### Blogs:
-
-* #####  [bi0s: Android APK Reconnaissance Tool](https://amritabi0s.wordpress.com/2017/09/24/adhrit-android-apk-reconnaissance-tool)
-* #####  [NeOnSec: Android APK Analysis](https://neonsec.com/adhrit-android-apk-analysis/)
----
 ### Credits:
 
 * [apktool](https://ibotpeaches.github.io/Apktool/)
@@ -139,14 +117,4 @@ Refer to the detailed [documentation](hhttps://github.com/abhi-r3v0/Adhrit/wiki)
 * [Smalisca](https://github.com/dorneanu/smalisca)
 
 ---
-
-#### Note:
-
-1. Filenames with two '.' may give an error. Please rename the apk in such cases.
-For example, if your file name is ```my.app.apk```, rename it to ```myapp.apk```
-
----
-
-
-
 
